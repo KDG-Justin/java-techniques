@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<games>
+  <game genre="fighting">
+    <name>Multiversus</name>
+    <price>0.0</price>
+    <playerbase>42177</playerbase>
+    <releaseDate>2022-07-19</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="fps">
+    <name>COD Modern Warfare 2</name>
+    <price>79.99</price>
+    <playerbase>0</playerbase>
+    <releaseDate>2022-10-28</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="fps">
+    <name>COD Modern Warfare</name>
+    <price>34.6</price>
+    <playerbase>170000</playerbase>
+    <releaseDate>2019-10-25</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="fighting">
+    <name>Smite</name>
+    <price>0.0</price>
+    <playerbase>20664</playerbase>
+    <releaseDate>2014-03-25</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="adventure">
+    <name>Minecraft</name>
+    <price>24.99</price>
+    <playerbase>17000000</playerbase>
+    <releaseDate>2011-11-18</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="horror">
+    <name>Phasmophobia</name>
+    <price>13.99</price>
+    <playerbase>112604</playerbase>
+    <releaseDate>2020-09-18</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="party_game">
+    <name>Mario Party Superstars</name>
+    <price>49.99</price>
+    <playerbase>3121</playerbase>
+    <releaseDate>2021-10-29</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="puzzle">
+    <name>Portal 2</name>
+    <price>10.0</price>
+    <playerbase>2587</playerbase>
+    <releaseDate>2011-04-18</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="horror">
+    <name>The Booty Creek Cheek Freak</name>
+    <price>0.0</price>
+    <playerbase>4400</playerbase>
+    <releaseDate>2022-07-19</releaseDate>
+    <multiplayer>false</multiplayer>
+  </game>
+  <game genre="adventure">
+    <name>Elden Ring</name>
+    <price>64.98</price>
+    <playerbase>150000</playerbase>
+    <releaseDate>2022-02-25</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="puzzle">
+    <name>Gmod</name>
+    <price>9.99</price>
+    <playerbase>44439</playerbase>
+    <releaseDate>2006-11-29</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="fps">
+    <name>Rainbow Six Siege</name>
+    <price>19.99</price>
+    <playerbase>66141</playerbase>
+    <releaseDate>2015-12-01</releaseDate>
+    <multiplayer>true</multiplayer>
+  </game>
+  <game genre="party_game">
+    <name>Friday Night Funkin</name>
+    <price>0.0</price>
+    <playerbase>25708</playerbase>
+    <releaseDate>2020-10-05</releaseDate>
+    <multiplayer>false</multiplayer>
+  </game>
+  <game genre="adventure">
+    <name>Devil May Cry 5</name>
+    <price>9.89</price>
+    <playerbase>5418</playerbase>
+    <releaseDate>2019-03-08</releaseDate>
+    <multiplayer>false</multiplayer>
+  </game>
+  <game genre="horror">
+    <name>The Mortuary Assistant</name>
+    <price>24.99</price>
+    <playerbase>265</playerbase>
+    <releaseDate>2022-08-02</releaseDate>
+    <multiplayer>false</multiplayer>
+  </game>
+</games>

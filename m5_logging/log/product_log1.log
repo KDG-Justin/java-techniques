@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-01-05T15:03:19.607068800Z</date>
+  <millis>1672930999607</millis>
+  <nanos>68800</nanos>
+  <sequence>0</sequence>
+  <logger>be.kdg.java2.gameproject.model.Game</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.java2.gameproject.model.Game</class>
+  <method>setPrice</method>
+  <thread>1</thread>
+  <message>-1,0, the price can't be negative</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.640211400Z</date>
+  <millis>1672930999640</millis>
+  <nanos>211400</nanos>
+  <sequence>1</sequence>
+  <logger>be.kdg.java2.gameproject.model.Game</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.java2.gameproject.model.Game</class>
+  <method>setName</method>
+  <thread>1</thread>
+  <message>, you need to fill in letters for a name</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.642210900Z</date>
+  <millis>1672930999642</millis>
+  <nanos>210900</nanos>
+  <sequence>2</sequence>
+  <logger>be.kdg.java2.gameproject.model.Game</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.java2.gameproject.model.Game</class>
+  <method>setGenre</method>
+  <thread>1</thread>
+  <message>null, wrong value for genre</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.643211600Z</date>
+  <millis>1672930999643</millis>
+  <nanos>211600</nanos>
+  <sequence>3</sequence>
+  <logger>be.kdg.java2.gameproject.model.Game</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.java2.gameproject.model.Game</class>
+  <method>setPlayerBase</method>
+  <thread>1</thread>
+  <message>-1, playerbase can't be negative</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.643716500Z</date>
+  <millis>1672930999643</millis>
+  <nanos>716500</nanos>
+  <sequence>4</sequence>
+  <logger>be.kdg.java2.gameproject.model.Game</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.java2.gameproject.model.Game</class>
+  <method>setReleaseDate</method>
+  <thread>1</thread>
+  <message>null, wrong value for release date</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.646720300Z</date>
+  <millis>1672930999646</millis>
+  <nanos>720300</nanos>
+  <sequence>5</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Multiversus added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.646720300Z</date>
+  <millis>1672930999646</millis>
+  <nanos>720300</nanos>
+  <sequence>6</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game COD Modern Warfare 2 added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.646720300Z</date>
+  <millis>1672930999646</millis>
+  <nanos>720300</nanos>
+  <sequence>7</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game COD Modern Warfare added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.646720300Z</date>
+  <millis>1672930999646</millis>
+  <nanos>720300</nanos>
+  <sequence>8</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Smite added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.646720300Z</date>
+  <millis>1672930999646</millis>
+  <nanos>720300</nanos>
+  <sequence>9</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Minecraft added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.647720400Z</date>
+  <millis>1672930999647</millis>
+  <nanos>720400</nanos>
+  <sequence>10</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Phasmophobia added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.647720400Z</date>
+  <millis>1672930999647</millis>
+  <nanos>720400</nanos>
+  <sequence>11</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Mario Party Superstars added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.647720400Z</date>
+  <millis>1672930999647</millis>
+  <nanos>720400</nanos>
+  <sequence>12</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Portal 2 added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.647720400Z</date>
+  <millis>1672930999647</millis>
+  <nanos>720400</nanos>
+  <sequence>13</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game The Booty Creek Cheek Freak added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.647720400Z</date>
+  <millis>1672930999647</millis>
+  <nanos>720400</nanos>
+  <sequence>14</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Elden Ring added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.647720400Z</date>
+  <millis>1672930999647</millis>
+  <nanos>720400</nanos>
+  <sequence>15</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Gmod added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.648720500Z</date>
+  <millis>1672930999648</millis>
+  <nanos>720500</nanos>
+  <sequence>16</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Rainbow Six Siege added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.649720800Z</date>
+  <millis>1672930999649</millis>
+  <nanos>720800</nanos>
+  <sequence>17</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Friday Night Funkin added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.649720800Z</date>
+  <millis>1672930999649</millis>
+  <nanos>720800</nanos>
+  <sequence>18</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Devil May Cry 5 added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.649720800Z</date>
+  <millis>1672930999649</millis>
+  <nanos>720800</nanos>
+  <sequence>19</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game The Mortuary Assistant added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.649720800Z</date>
+  <millis>1672930999649</millis>
+  <nanos>720800</nanos>
+  <sequence>20</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Game Smite added</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.650720600Z</date>
+  <millis>1672930999650</millis>
+  <nanos>720600</nanos>
+  <sequence>21</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>remove</method>
+  <thread>1</thread>
+  <message>Game smite removed</message>
+</record>
+<record>
+  <date>2023-01-05T15:03:19.651720700Z</date>
+  <millis>1672930999651</millis>
+  <nanos>720700</nanos>
+  <sequence>22</sequence>
+  <logger>be.kdg.java2.gameproject.model.Games</logger>
+  <level>FINER</level>
+  <class>be.kdg.java2.gameproject.model.Games</class>
+  <method>remove</method>
+  <thread>1</thread>
+  <message>Game Gmod removed</message>
+</record>
+</log>

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Multiversus",
+    "price": 0.0,
+    "genre": "fighting",
+    "playerbase": 42177,
+    "release": "2022-07-19",
+    "multiplayer": true
+  },
+  {
+    "name": "COD Modern Warfare 2",
+    "price": 79.99,
+    "genre": "fps",
+    "playerbase": 0,
+    "release": "2022-10-28",
+    "multiplayer": true
+  },
+  {
+    "name": "COD Modern Warfare",
+    "price": 34.6,
+    "genre": "fps",
+    "playerbase": 170000,
+    "release": "2019-10-25",
+    "multiplayer": true
+  },
+  {
+    "name": "Smite",
+    "price": 0.0,
+    "genre": "fighting",
+    "playerbase": 20664,
+    "release": "2014-03-25",
+    "multiplayer": true
+  },
+  {
+    "name": "Minecraft",
+    "price": 24.99,
+    "genre": "adventure",
+    "playerbase": 17000000,
+    "release": "2011-11-18",
+    "multiplayer": true
+  },
+  {
+    "name": "Phasmophobia",
+    "price": 13.99,
+    "genre": "horror",
+    "playerbase": 112604,
+    "release": "2020-09-18",
+    "multiplayer": true
+  },
+  {
+    "name": "Mario Party Superstars",
+    "price": 49.99,
+    "genre": "party_game",
+    "playerbase": 3121,
+    "release": "2021-10-29",
+    "multiplayer": true
+  },
+  {
+    "name": "Portal 2",
+    "price": 10.0,
+    "genre": "puzzle",
+    "playerbase": 2587,
+    "release": "2011-04-18",
+    "multiplayer": true
+  },
+  {
+    "name": "The Booty Creek Cheek Freak",
+    "price": 0.0,
+    "genre": "horror",
+    "playerbase": 4400,
+    "release": "2022-07-19",
+    "multiplayer": false
+  },
+  {
+    "name": "Elden Ring",
+    "price": 64.98,
+    "genre": "adventure",
+    "playerbase": 150000,
+    "release": "2022-02-25",
+    "multiplayer": true
+  },
+  {
+    "name": "Gmod",
+    "price": 9.99,
+    "genre": "puzzle",
+    "playerbase": 44439,
+    "release": "2006-11-29",
+    "multiplayer": true
+  },
+  {
+    "name": "Rainbow Six Siege",
+    "price": 19.99,
+    "genre": "fps",
+    "playerbase": 66141,
+    "release": "2015-12-01",
+    "multiplayer": true
+  },
+  {
+    "name": "Friday Night Funkin",
+    "price": 0.0,
+    "genre": "party_game",
+    "playerbase": 25708,
+    "release": "2020-10-05",
+    "multiplayer": false
+  },
+  {
+    "name": "Devil May Cry 5",
+    "price": 9.89,
+    "genre": "adventure",
+    "playerbase": 5418,
+    "release": "2019-03-08",
+    "multiplayer": false
+  },
+  {
+    "name": "The Mortuary Assistant",
+    "price": 24.99,
+    "genre": "horror",
+    "playerbase": 265,
+    "release": "2022-08-02",
+    "multiplayer": false
+  }
+]

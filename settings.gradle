@@ -1,0 +1,12 @@
+rootProject.name = 'groeiproject'
+include 'm1_herhaling'
+include 'm2_generic'
+include 'm3_reflection'
+include 'm4_streams'
+include 'm5_logging'
+include 'm6_persistentie'
+include 'm7_xml_json'
+include 'm8_datastructuren'
+include 'm9_threads'
+include 'm10_dependency'
+
